@@ -14,7 +14,7 @@ export default function Weather(props) {
 
     <Loader
         type="ThreeDots"
-        color="violet"
+        color="#ea27ea"
         height={200}
         width={200} 
       />
